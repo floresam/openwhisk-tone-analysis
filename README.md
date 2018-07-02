@@ -1,4 +1,4 @@
-# openwhisk-tone_analysis
+# openwhisk-tone-analysis
 This is an extremely simple serverless implementation of Tone Analysis.
 The serverless framework used is [Apache Openwhisk](https://console.bluemix.net/openwhisk/).
 The tone analysis tool used is [Watson Tone Analyzer](https://console.bluemix.net/catalog/services/tone-analyzer).
